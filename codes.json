@@ -1,0 +1,24 @@
+{https://github.com/xyclopscloud/cookierun/tree/main
+  "codes": [
+    {
+      "code": "COOKIE-GYHD-1521",
+      "label": "User A",
+      "active": true
+    },
+    {
+      "code": "COOKIE-ASRF-9863",
+      "label": "User B",
+      "active": true
+    },
+    {
+      "code": "COOKIE-DWSX-1353",
+      "label": "User C",
+      "active": true
+    },
+    {
+      "code": "COOKIE-SBRF-4356",
+      "label": "Expired",
+      "active": false
+    }
+  ]
+}
